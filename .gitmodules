@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ship-owner/watchott-api.git
+[submodule "web"]
+	path = web
+	url = https://github.com/ship-owner/watchott-web.git
